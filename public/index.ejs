@@ -1,5 +1,60 @@
 <html>
-<body>
-This is my body.
-</body>
+	<head>
+		<script src="https://maps.google.com/maps/api/js?sensor=false&libraries=geometry&v=3.22&key=AIzaSyDKSasb_HhPYWv1SiVDCO7RM5AUkpbDk_0">
+		</script>
+		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<script src="./public/maplace.js"></script>
+
+		<script type="text/javascript">
+			$(function() {
+					getPlaces('resturant');
+			});
+
+			function getPlaces(category){
+				var url= "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=33.352326,-111.837387&radius=1500&type="+category+"&key=AIzaSyCtxaRhTjMr40-iWw5vKJOLbIoe9rwL5cQ";
+				$.ajax({
+	        url: url,
+	        type: 'GET',
+	        dataType: 'json',
+	        async: false,
+	        cache: false,
+	        timeout: 30000,
+	        success: function(msg){ 
+	        	return loadData(msg);
+	        }
+	    	});
+			}
+
+			function loadData(places){
+				var zoom = 8;
+				console.log(places);
+				locations = [];
+				for(i=0;i< places.results.length;i++){
+					locations.push({
+						lat: places.results[i].geometry.location.lat,
+						lon: places.results[i].geometry.location.lng,
+						title: places.results[i].name,
+						html: '<h3>'+places.results[i].name+'</h3>',
+						animation: google.maps.Animation.DROP
+					});
+				}
+				locations.push({
+					lat: 33.352326,
+					lon: -111.837387,
+					icon: 'http://maps.google.com/mapfiles/arrow.png',
+					zoom: zoom 
+				});
+		    new Maplace({
+		        locations: locations,
+			    	map_div: '#gmap-menu',
+			    	directions_panel: "#route",
+		        controls_on_map: false
+		    }).Load();
+			}
+		</script>
+	</head>
+
+	<body>
+		<div id="gmap-menu" style="width:300px;height:500px;"></div>
+	</body>
 </html>
