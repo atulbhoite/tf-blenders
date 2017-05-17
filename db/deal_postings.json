@@ -1,0 +1,32 @@
+[
+  { "the-google-id-for-site":
+    { "name": "The name of the shop",
+      "category": "Category it belongs to",
+      "deal_summary": "A summary for the deal",
+      "deal_details": "Detailed rules and description for the deal"
+    }
+  },
+  { "1230000":
+    { "name": "Freds Coffee Shop",
+      "category": "Coffee",
+      "deal_summary": "$2 off Super Latte",
+      "deal_details": "Get two bucks off when you buy any one of our Super Lattes. Hurry in!"
+    }
+  },
+  { "1230001":
+    {
+      "name": "Grandmas Cookies",
+      "category": "Snacks",
+      "deal_summary": "20% off dozen cookies",
+      "deal_details": "Get 20% when you buy cookies by the dozen until June 1st."
+    }
+  },
+  { "1230002":
+    {
+      "name": "Grandmas Cookies",
+      "category": "Snacks",
+      "deal_summary": "20% off dozen cookies",
+      "deal_details": "Get 20% when you buy cookies by the dozen until June 1st."
+    }
+  }
+]
