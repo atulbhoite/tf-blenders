@@ -2,292 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93375e4d-7f4e-4c48-a8fd-9fe05f8758bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.ejs" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/categories/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/categories/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/error.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/css/jqm-demos.css" afterPath="$PROJECT_DIR$/public/_assets/css/jqm-demos.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-af.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-af.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-ag.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-ag.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-bb.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-bb.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-bk.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-bk.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-hc.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-hc.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-k.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-k.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-mg.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-mg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-ok.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-ok.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-p.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-p.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-rh.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-rh.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-ws.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-ws.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/album-xx.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/album-xx.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/apple.png" afterPath="$PROJECT_DIR$/public/_assets/img/apple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/bg-pattern.png" afterPath="$PROJECT_DIR$/public/_assets/img/bg-pattern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/bike.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/bike.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/blackberry_10.png" afterPath="$PROJECT_DIR$/public/_assets/img/blackberry_10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/bmw-thumb.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/bmw-thumb.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/bmw.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/bmw.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/buenosaires.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/buenosaires.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/capetown.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/capetown.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/de.png" afterPath="$PROJECT_DIR$/public/_assets/img/de.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/devices.png" afterPath="$PROJECT_DIR$/public/_assets/img/devices.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/fi.png" afterPath="$PROJECT_DIR$/public/_assets/img/fi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/firefox-logo.png" afterPath="$PROJECT_DIR$/public/_assets/img/firefox-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/firefox_os.png" afterPath="$PROJECT_DIR$/public/_assets/img/firefox_os.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/galaxy_express.png" afterPath="$PROJECT_DIR$/public/_assets/img/galaxy_express.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/gb.png" afterPath="$PROJECT_DIR$/public/_assets/img/gb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/gf.png" afterPath="$PROJECT_DIR$/public/_assets/img/gf.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/glyphish-icons/09-chat2.png" afterPath="$PROJECT_DIR$/public/_assets/img/glyphish-icons/09-chat2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/glyphish-icons/100-coffee.png" afterPath="$PROJECT_DIR$/public/_assets/img/glyphish-icons/100-coffee.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/glyphish-icons/18-envelope.png" afterPath="$PROJECT_DIR$/public/_assets/img/glyphish-icons/18-envelope.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/glyphish-icons/19-gear.png" afterPath="$PROJECT_DIR$/public/_assets/img/glyphish-icons/19-gear.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/glyphish-icons/21-skull.png" afterPath="$PROJECT_DIR$/public/_assets/img/glyphish-icons/21-skull.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/glyphish-icons/30-key.png" afterPath="$PROJECT_DIR$/public/_assets/img/glyphish-icons/30-key.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/glyphish-icons/34-coffee.png" afterPath="$PROJECT_DIR$/public/_assets/img/glyphish-icons/34-coffee.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/glyphish-icons/88-beermug.png" afterPath="$PROJECT_DIR$/public/_assets/img/glyphish-icons/88-beermug.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/glyphish-icons/Read me first - license.txt" afterPath="$PROJECT_DIR$/public/_assets/img/glyphish-icons/Read me first - license.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/jquery-logo.png" afterPath="$PROJECT_DIR$/public/_assets/img/jquery-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/landrover-thumb.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/landrover-thumb.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/landrover.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/landrover.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/lumia_800.png" afterPath="$PROJECT_DIR$/public/_assets/img/lumia_800.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/newyork.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/newyork.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/nexus_7.png" afterPath="$PROJECT_DIR$/public/_assets/img/nexus_7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/paris.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/paris.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/phone_galaxy3.png" afterPath="$PROJECT_DIR$/public/_assets/img/phone_galaxy3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/phone_iphone5.png" afterPath="$PROJECT_DIR$/public/_assets/img/phone_iphone5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/phone_lumia920.png" afterPath="$PROJECT_DIR$/public/_assets/img/phone_lumia920.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/phone_onex.png" afterPath="$PROJECT_DIR$/public/_assets/img/phone_onex.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/photo-landscape.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/photo-landscape.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/photo-portrait.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/photo-portrait.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/photo-run.jpeg" afterPath="$PROJECT_DIR$/public/_assets/img/photo-run.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/seoul.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/seoul.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/sydney.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/sydney.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/tesla-thumb.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/tesla-thumb.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/tesla.jpg" afterPath="$PROJECT_DIR$/public/_assets/img/tesla.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/tizen.png" afterPath="$PROJECT_DIR$/public/_assets/img/tizen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/img/us.png" afterPath="$PROJECT_DIR$/public/_assets/img/us.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/js/h2widget.js" afterPath="$PROJECT_DIR$/public/_assets/js/h2widget.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/js/index.html" afterPath="$PROJECT_DIR$/public/_assets/js/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/js/index.js" afterPath="$PROJECT_DIR$/public/_assets/js/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/js/jqm-demos.js" afterPath="$PROJECT_DIR$/public/_assets/js/jqm-demos.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/_assets/js/view-source.js" afterPath="$PROJECT_DIR$/public/_assets/js/view-source.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/public/css/themes/default/images/ajax-loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/action-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/action-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/action-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/action-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/alert-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/alert-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/alert-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/alert-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-d-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-d-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-d-l-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-d-l-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-d-l-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-d-l-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-d-r-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-d-r-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-d-r-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-d-r-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-d-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-d-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-l-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-l-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-l-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-l-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-r-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-r-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-r-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-r-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-u-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-u-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-u-l-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-u-l-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-u-l-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-u-l-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-u-r-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-u-r-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-u-r-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-u-r-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/arrow-u-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/arrow-u-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/audio-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/audio-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/audio-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/audio-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/back-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/back-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/back-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/back-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/bars-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/bars-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/bars-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/bars-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/bullets-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/bullets-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/bullets-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/bullets-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/calendar-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/calendar-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/calendar-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/calendar-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/camera-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/camera-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/camera-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/camera-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/carat-d-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/carat-d-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/carat-d-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/carat-d-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/carat-l-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/carat-l-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/carat-l-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/carat-l-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/carat-r-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/carat-r-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/carat-r-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/carat-r-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/carat-u-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/carat-u-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/carat-u-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/carat-u-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/check-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/check-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/check-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/check-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/clock-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/clock-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/clock-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/clock-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/cloud-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/cloud-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/cloud-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/cloud-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/comment-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/comment-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/comment-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/comment-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/delete-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/delete-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/delete-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/delete-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/edit-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/edit-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/edit-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/edit-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/eye-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/eye-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/eye-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/eye-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/forbidden-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/forbidden-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/forbidden-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/forbidden-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/forward-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/forward-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/forward-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/forward-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/gear-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/gear-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/gear-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/gear-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/grid-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/grid-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/grid-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/grid-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/heart-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/heart-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/heart-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/heart-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/home-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/home-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/home-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/home-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/info-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/info-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/info-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/info-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/location-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/location-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/location-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/location-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/lock-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/lock-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/lock-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/lock-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/mail-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/mail-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/mail-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/mail-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/minus-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/minus-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/minus-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/minus-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/navigation-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/navigation-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/navigation-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/navigation-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/phone-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/phone-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/phone-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/phone-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/plus-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/plus-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/plus-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/plus-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/power-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/power-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/power-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/power-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/recycle-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/recycle-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/recycle-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/recycle-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/refresh-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/refresh-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/refresh-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/refresh-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/search-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/search-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/search-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/search-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/shop-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/shop-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/shop-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/shop-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/star-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/star-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/star-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/star-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/tag-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/tag-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/tag-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/tag-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/user-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/user-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/user-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/user-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/video-black.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/video-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-png/video-white.png" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-png/video-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/action-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/action-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/action-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/action-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/alert-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/alert-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/alert-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/alert-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-d-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-d-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-d-l-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-d-l-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-d-l-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-d-l-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-d-r-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-d-r-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-d-r-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-d-r-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-d-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-d-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-l-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-l-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-l-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-l-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-r-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-r-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-r-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-r-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-u-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-u-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-u-l-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-u-l-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-u-l-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-u-l-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-u-r-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-u-r-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-u-r-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-u-r-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/arrow-u-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/arrow-u-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/audio-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/audio-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/audio-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/audio-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/back-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/back-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/back-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/back-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/bars-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/bars-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/bars-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/bars-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/bullets-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/bullets-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/bullets-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/bullets-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/calendar-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/calendar-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/calendar-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/calendar-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/camera-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/camera-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/camera-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/camera-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/carat-d-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/carat-d-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/carat-d-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/carat-d-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/carat-l-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/carat-l-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/carat-l-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/carat-l-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/carat-r-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/carat-r-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/carat-r-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/carat-r-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/carat-u-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/carat-u-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/carat-u-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/carat-u-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/check-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/check-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/check-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/check-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/clock-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/clock-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/clock-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/clock-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/cloud-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/cloud-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/cloud-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/cloud-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/comment-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/comment-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/comment-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/comment-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/delete-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/delete-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/delete-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/delete-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/edit-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/edit-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/edit-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/edit-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/eye-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/eye-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/eye-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/eye-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/forbidden-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/forbidden-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/forbidden-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/forbidden-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/forward-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/forward-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/forward-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/forward-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/gear-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/gear-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/gear-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/gear-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/grid-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/grid-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/grid-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/grid-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/heart-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/heart-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/heart-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/heart-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/home-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/home-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/home-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/home-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/info-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/info-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/info-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/info-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/location-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/location-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/location-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/location-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/lock-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/lock-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/lock-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/lock-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/mail-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/mail-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/mail-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/mail-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/minus-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/minus-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/minus-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/minus-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/navigation-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/navigation-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/navigation-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/navigation-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/phone-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/phone-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/phone-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/phone-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/plus-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/plus-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/plus-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/plus-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/power-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/power-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/power-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/power-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/recycle-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/recycle-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/recycle-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/recycle-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/refresh-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/refresh-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/refresh-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/refresh-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/search-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/search-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/search-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/search-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/shop-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/shop-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/shop-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/shop-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/star-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/star-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/star-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/star-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/tag-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/tag-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/tag-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/tag-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/user-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/user-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/user-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/user-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/video-black.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/video-black.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/images/icons-svg/video-white.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/images/icons-svg/video-white.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/jquery.mobile-1.4.5.min.css" afterPath="$PROJECT_DIR$/public/css/themes/default/jquery.mobile-1.4.5.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/jquery.mobile.external-png-1.4.5.min.css" afterPath="$PROJECT_DIR$/public/css/themes/default/jquery.mobile.external-png-1.4.5.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/jquery.mobile.icons-1.4.5.min.css" afterPath="$PROJECT_DIR$/public/css/themes/default/jquery.mobile.icons-1.4.5.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/jquery.mobile.inline-png-1.4.5.min.css" afterPath="$PROJECT_DIR$/public/css/themes/default/jquery.mobile.inline-png-1.4.5.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/jquery.mobile.inline-svg-1.4.5.min.css" afterPath="$PROJECT_DIR$/public/css/themes/default/jquery.mobile.inline-svg-1.4.5.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/jquery.mobile.structure-1.4.5.min.css" afterPath="$PROJECT_DIR$/public/css/themes/default/jquery.mobile.structure-1.4.5.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/css/themes/default/jquery.mobile.theme-1.4.5.min.css" afterPath="$PROJECT_DIR$/public/css/themes/default/jquery.mobile.theme-1.4.5.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/js/jquery.js" afterPath="$PROJECT_DIR$/public/js/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/js/jquery.min.js" afterPath="$PROJECT_DIR$/public/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/js/jquery.mobile-1.4.5.js" afterPath="$PROJECT_DIR$/public/js/jquery.mobile-1.4.5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/js/jquery.mobile-1.4.5.min.js" afterPath="$PROJECT_DIR$/public/js/jquery.mobile-1.4.5.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories/js/jquery.mobile-1.4.5.min.map" afterPath="$PROJECT_DIR$/public/js/jquery.mobile-1.4.5.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/categoriesChoice.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/maps.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/maps.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/users.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/www" afterPath="$PROJECT_DIR$/bin/www" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.ejs" afterPath="$PROJECT_DIR$/public/index.ejs" />
     </list>
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -301,17 +25,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/index.ejs">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="70" column="20" lean-forward="false" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="maps.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/maps.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categories.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/categories.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maps.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/maps.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categoriesChoice.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/categoriesChoice.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1740">
+              <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>night</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -322,7 +121,14 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/views/index.jade" />
         <option value="$PROJECT_DIR$/categories/index.html" />
+        <option value="$PROJECT_DIR$/routes/users.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/db/categoriesChoice.json" />
         <option value="$PROJECT_DIR$/public/index.ejs" />
+        <option value="$PROJECT_DIR$/public/maps.html" />
+        <option value="$PROJECT_DIR$/routes/categories.js" />
+        <option value="$PROJECT_DIR$/routes/maps.js" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -400,6 +206,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tf-blenders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tf-blenders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -409,6 +229,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="7.2.0" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -566,7 +388,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8299000" />
+    <option name="totallyTimeSpent" value="12477000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -579,13 +401,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="720" height="873" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -632,7 +453,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -708,14 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -728,30 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -788,18 +579,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/categoriesChoice.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="45" column="12" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="70" column="20" lean-forward="false" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+        <state relative-caret-position="1740">
+          <caret line="116" column="0" lean-forward="true" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/maps.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/categories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
           <folding />
         </state>
       </provider>
