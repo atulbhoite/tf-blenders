@@ -61,7 +61,7 @@
                     lat: places.results[i].geometry.location.lat,
                     lon: places.results[i].geometry.location.lng,
                     title: places.results[i].name,
-                    html: '<h3>'+places.results[i].name+'</h3>',
+                    html: '<h3>'+places.results[i].name+'</h3><p><a href="/deals">Deals</a></p>',
                     animation: google.maps.Animation.DROP
                 });
             }

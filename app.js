@@ -8,6 +8,7 @@ var maplace = require('maplace-js');
 var index = require('./routes/index');
 var categories = require('./routes/categories');
 var maps = require('./routes/maps');
+var deals = require('./routes/deals');
 
 var app = express();
 
@@ -26,6 +27,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', index);
 app.use('/saveCategories', categories);
 app.use('/maps', maps);
+app.use('/deals', deals);
 
 app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
