@@ -31,7 +31,10 @@
                     day = "pharmacy";
                     break;
             }
-            getPlaces(day);
+            var cat = "<%= category %>";
+            var category = (cat == undefined) ? day: cat;
+            console.log(category + "ccc");
+            getPlaces(category);
         });
 
         function getPlaces(category){
