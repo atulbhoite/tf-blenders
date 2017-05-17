@@ -8,7 +8,30 @@
 
     <script type="text/javascript">
         $(function() {
-            getPlaces('restaurant');
+           var random = Math.floor((Math.random() * 5) + 1);
+            console.log(random)
+            var day;
+            switch (random) {
+                case 0:
+                    day = "hospital";
+                    break;
+                case 1:
+                    day = "bar";
+                    break;
+                case 2:
+                    day = "cafe";
+                    break;
+                case 3:
+                    day = "book_store";
+                    break;
+                case 4:
+                    day = "night_club";
+                    break;
+                case 5:
+                    day = "pharmacy";
+                    break;
+            }
+            getPlaces(day);
         });
 
         function getPlaces(category){
@@ -53,6 +76,7 @@
             }).Load();
         }
     </script>
+
 </head>
 
 <body>

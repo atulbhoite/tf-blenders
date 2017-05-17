@@ -11,8 +11,7 @@ router.post('/', function (req, res, next) {
     fs.writeFileSync('db/categoriesChoice.json', JSON.stringify(req.body) , 'utf-8');
 
     console.log("The file was saved!");
-
-    res.redirect(301,'/maps');
+    res.redirect(301, 'maps');
 });
 
 module.exports = router;
