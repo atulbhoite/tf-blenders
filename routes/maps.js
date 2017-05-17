@@ -3,7 +3,8 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-    res.render('maps',{ category: req.query.category });
+	console.log(Object.keys(req.query));
+    res.render('maps',{ category: Object.keys(req.query)[0] });
 });
 
 module.exports = router;
